@@ -1,4 +1,4 @@
 Test number 3
 Feature 1
 
-Conflict master 
+New Feature Conflict
