@@ -1,4 +1,0 @@
-Test number 3
-Feature 1
-
-New Feature Conflict
